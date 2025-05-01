@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+This is a collection of cookbooks for any skill level offering a variety of cuisine options without breaking your budget. This is for those looking to change up your meals for any occasion, even if it's just for a weekday family dinner. The options include Dominican, Asian, Jamaican, Mediterranean, and Asian fusion options. The resources include images.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
