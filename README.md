@@ -7,7 +7,6 @@ A project to generate a free and simple digital collection site using [GitHub Pa
 
 Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
 
-[View my dataset](data/updatedcookbookcollection.csv)
 
 ## Build a Digital Collection
 
